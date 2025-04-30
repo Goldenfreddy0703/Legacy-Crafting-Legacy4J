@@ -876,7 +876,17 @@
                     "wolf_armor"
                 ]
             },
-            "netherite_upgrade_smithing_template",
+            {
+                "group": "moa_armor",
+                "recipes": [
+                    "aether_protect_your_moa:leather_moa_armor",
+                    "aether_protect_your_moa:iron_moa_armor",
+                    "aether_protect_your_moa:golden_moa_armor",
+                    "aether_protect_your_moa:diamond_moa_armor",
+                    "aether_protect_your_moa:zanite_moa_armor",
+                    "aether_protect_your_moa:gravitite_moa_armor"
+                ]
+            },
             {
                 "group": "templates",
                 "recipes": [
@@ -886,7 +896,10 @@
             {
                 "group": "",
                 "recipes": [
-                    "netherite_upgrade_smithing_template"
+                    "netherite_upgrade_smithing_template",
+                    "aether_treasure_reforging:neptune_upgrade_smithing_template",
+                    "aether_treasure_reforging:phoenix_upgrade_smithing_template",
+                    "aether_treasure_reforging:valkyrie_upgrade_smithing_template"
                 ]
             },
             {
@@ -1259,6 +1272,8 @@
                     "redstone_block",
                     "coal_block",
                     "netherite_block",
+                    "aether_treasure_reforging:pyral_block",
+                    "aether_treasure_reforging:valkyrum_block",
                     "twilightforest:compressed_blocks/ironwood_block",
                     "twilightforest:compressed_blocks/steeleaf_block",
                     "twilightforest:compressed_blocks/fiery_block",
@@ -1540,6 +1555,8 @@
                     "diamond",
                     "emerald",
                     "netherite_ingot_from_netherite_block",
+                    "aether_treasure_reforging:pyral_ingot_from_pyral_block",
+                    "aether_treasure_reforging:valkyrum_ingot_from_valkyrum_block",
                     "twilightforest:material/raw_ironwood",
                     "twilightforest:compressed_blocks/reversed/ironwood_block_ingot",
                     "twilightforest:compressed_blocks/reversed/steeleaf_block_ingot",
@@ -1564,6 +1581,7 @@
                     "iron_ingot_from_nuggets",
                     "iron_nugget",
                     "netherite_ingot",
+                    "aether_treasure_reforging:pyral_ingot",
                     "resin_clump"
                 ]
             },
