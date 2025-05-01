@@ -799,6 +799,7 @@
                     "diamond_helmet",
                     "golden_helmet",
                     "turtle_helmet",
+                    "friendsandfoes:wildfire_crown",
                     "twilightforest:equipment/ironwood_helmet",
                     "twilightforest:equipment/steeleaf_helmet",
                     "twilightforest:equipment/knightmetal_helmet",
@@ -999,7 +1000,8 @@
                     "daylight_detector",
                     "calibrated_sculk_sensor",
                     "target",
-                    "lightning_rod"
+                    "lightning_rod",
+                    "#friendsandfoes:lightning_rods"
                 ]
             },
             "end_crystal",
@@ -1035,6 +1037,7 @@
                     "twilightforest:wood/transformation_button",
                     "twilightforest:wood/mining_button",
                     "twilightforest:wood/sorting_button",
+                    "#friendsandfoes:copper_buttons",
                     "aether:skyroot_button",
                     "aether:holystone_button",
                     "pale_oak_button"
@@ -1382,6 +1385,7 @@
                 "recipes": [
                     "yellow_dye_from_dandelion",
                     "yellow_dye_from_sunflower",
+                    "friendsandfoes:yellow_dye_from_buttercup",
                     "red_dye_from_poppy",
                     "red_dye_from_rose_bush",
                     "red_dye_from_tulip",
@@ -1459,6 +1463,17 @@
                     "twilightforest:firefly_particle_spawner",
                     "chain",
                     "beehive",
+                    "friendsandfoes:birch_beehive",
+                    "friendsandfoes:spruce_beehive",
+                    "friendsandfoes:jungle_beehive",
+                    "friendsandfoes:acacia_beehive",
+                    "friendsandfoes:dark_oak_beehive",
+                    "friendsandfoes:pale_oak_beehive",
+                    "friendsandfoes:mangrove_beehive",
+                    "friendsandfoes:bamboo_beehive",
+                    "friendsandfoes:cherry_beehive",
+                    "friendsandfoes:crimson_beehive",
+                    "friendsandfoes:warped_beehive",
                     "music_disc_5",
                     "creaking_heart"
                 ]
